@@ -4,12 +4,12 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/vdhugn/DL-Assignment-3.git
     ```
 2. Change to the project directory:
 
     ```bash
-    cd your_repository
+    cd DL-Assignment-3
     ```
 3. Install the dependencies:
     ```bash
