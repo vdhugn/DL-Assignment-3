@@ -22,5 +22,5 @@
 6. Run the `infer.py` script:
 
     ```bash
-    python src/infer.py
+    python infer.py
     ```
